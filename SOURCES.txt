@@ -1,0 +1,7 @@
+setup.py
+my_camera_package.egg-info/PKG-INFO
+my_camera_package.egg-info/SOURCES.txt
+my_camera_package.egg-info/dependency_links.txt
+my_camera_package.egg-info/entry_points.txt
+my_camera_package.egg-info/requires.txt
+my_camera_package.egg-info/top_level.txt

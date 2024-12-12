@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: my-camera-package
+Version: 0.1.0
+Summary: 一個用於多相機校正和3D重建的Python套件
+Home-page: https://github.com/Yknighter424/3-camera/upload/main
+Author: 您的名字
+Author-email: 您的郵箱
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# My Camera Package
+
+一個用於多相機校正和3D重建的Python套件。
+
+## 特點
+
+- 單相機和三相機校正
+- 多視角三角測量
+- 重新投影和誤差計算
+- 可視化功能
+
+## 安裝
+
+使用 `pip` 安裝：
+
+```bash
+pip install git+https://github.com/您的用戶名/my_camera_package.git
+
+

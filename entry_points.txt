@@ -1,0 +1,3 @@
+[console_scripts]
+run_calibration = scripts.run_calibration:main
+
