@@ -1,0 +1,8 @@
+# requirements.txt
+
+opencv-python
+numpy
+scipy
+glob2
+mediapipe
+matplotlib
